@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="24" y="24" width="1352" height="812" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="152" rx="26" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="13" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">FLEET LANE</tspan>
+</text>
+    <text x="94" y="146" fill="#f5f7ff" font-size="34" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Each lane keeps owner, mission,</tspan>
+<tspan x="94" dy="42">fleet, and next action visible.</tspan>
+</text>
+    <text x="94" y="194" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">Warehouse, yard, fulfillment, and courier lanes stay separated cleanly so exception routing does not</tspan>
+<tspan x="94" dy="22">collapse into one noisy queue.</tspan>
+</text>
+    
+    
+    <rect x="58" y="238" width="620" height="250" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="84" y="272" fill="#19c7ff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="84" dy="0">WAREHOUSE LANE</tspan>
+</text>
+    <text x="84" y="322" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="84" dy="0">AMR replenishment missions</tspan>
+</text>
+    <text x="84" y="374" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="84" dy="0">Localization drift, aisle missions, and override</tspan>
+<tspan x="84" dy="20">governance stay grouped under Fleet Reliability</tspan>
+<tspan x="84" dy="20">ownership.</tspan>
+</text>
+    
+    
+    <rect x="708" y="238" width="634" height="250" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="734" y="272" fill="#ffcc66" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="734" dy="0">YARD LANE</tspan>
+</text>
+    <text x="734" y="322" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="734" dy="0">Trailer sweep and inspection</tspan>
+<tspan x="734" dy="35">posture</tspan>
+</text>
+    <text x="734" y="374" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="734" dy="0">Battery sag, replay evidence, and dispatch</tspan>
+<tspan x="734" dy="20">readiness stay visible before another field run.</tspan>
+</text>
+    
+    
+    <rect x="58" y="520" width="620" height="256" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="84" y="554" fill="#b88cff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="84" dy="0">FULFILLMENT LANE</tspan>
+</text>
+    <text x="84" y="604" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="84" dy="0">Rush-pick mission resilience</tspan>
+</text>
+    <text x="84" y="656" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="84" dy="0">Vision inference failures and human stops stay</tspan>
+<tspan x="84" dy="20">tied to Autonomy Platform review pressure.</tspan>
+</text>
+    
+    
+    <rect x="708" y="520" width="634" height="256" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="734" y="554" fill="#37ff8b" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="734" dy="0">COURIER LANE</tspan>
+</text>
+    <text x="734" y="604" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="734" dy="0">Specimen handoff stability</tspan>
+</text>
+    <text x="734" y="656" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="734" dy="0">Custody telemetry, route health, and mission</tspan>
+<tspan x="734" dy="20">control posture provide the fleet's green</tspan>
+<tspan x="734" dy="20">reference lane.</tspan>
+</text>
+    
+    
+    </svg>

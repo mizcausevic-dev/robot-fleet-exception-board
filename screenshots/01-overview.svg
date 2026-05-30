@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="860" viewBox="0 0 1400 860">
+    <rect width="1400" height="860" fill="#070a0f"/>
+    <rect x="24" y="24" width="1352" height="812" rx="30" fill="#0a1426" stroke="rgba(120,255,170,.18)"/>
+    <rect x="58" y="58" width="1284" height="152" rx="26" fill="#0b1220" stroke="rgba(120,255,170,.12)"/>
+    <text x="94" y="96" fill="#37ff8b" font-size="13" font-weight="700" font-family="Consolas, monospace">
+<tspan x="94" dy="0">ROBOT FLEET EXCEPTION BOARD</tspan>
+</text>
+    <text x="94" y="146" fill="#f5f7ff" font-size="34" font-weight="700" font-family="Georgia, serif">
+<tspan x="94" dy="0">Control-plane summary for robot</tspan>
+<tspan x="94" dy="42">mission failures, override packets,</tspan>
+<tspan x="94" dy="42">and redeploy pressure.</tspan>
+</text>
+    <text x="94" y="194" fill="#b8c6db" font-size="18" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="94" dy="0">Localization drift, vision timeouts, battery sag, and replay evidence stay visible together before</tspan>
+<tspan x="94" dy="22">another autonomous mission window opens.</tspan>
+</text>
+    
+    
+    <rect x="58" y="238" width="288" height="150" rx="20" fill="#111827" stroke="rgba(120,255,170,.14)" />
+    <text x="82" y="272" fill="#8fdcff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="82" dy="0">ROBOT UNITS</tspan>
+</text>
+    <text x="82" y="324" fill="#19c7ff" font-size="34" font-weight="700" font-family="Segoe UI, Arial">
+<tspan x="82" dy="0">4</tspan>
+</text>
+    <text x="82" y="362" fill="#b8c6db" font-size="15" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="82" dy="0">Warehouse, yard,</tspan>
+<tspan x="82" dy="18">fulfillment, and courier</tspan>
+<tspan x="82" dy="18">robots modeled together.</tspan>
+</text>
+    
+    
+    <rect x="364" y="238" width="288" height="150" rx="20" fill="#111827" stroke="rgba(120,255,170,.14)" />
+    <text x="388" y="272" fill="#8fdcff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="388" dy="0">ACTIVE FAILURES</tspan>
+</text>
+    <text x="388" y="324" fill="#ffcc66" font-size="34" font-weight="700" font-family="Segoe UI, Arial">
+<tspan x="388" dy="0">6</tspan>
+</text>
+    <text x="388" y="362" fill="#b8c6db" font-size="15" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="388" dy="0">Localization, vision,</tspan>
+<tspan x="388" dy="18">review, note, battery, and</tspan>
+<tspan x="388" dy="18">replay failures still open.</tspan>
+</text>
+    
+    
+    <rect x="670" y="238" width="288" height="150" rx="20" fill="#111827" stroke="rgba(120,255,170,.14)" />
+    <text x="694" y="272" fill="#8fdcff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="694" dy="0">OVERRIDE RISKS</tspan>
+</text>
+    <text x="694" y="324" fill="#ff5c7a" font-size="34" font-weight="700" font-family="Segoe UI, Arial">
+<tspan x="694" dy="0">3</tspan>
+</text>
+    <text x="694" y="362" fill="#b8c6db" font-size="15" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="694" dy="0">Manual override packets are</tspan>
+<tspan x="694" dy="18">still missing evidence or</tspan>
+<tspan x="694" dy="18">named signoff.</tspan>
+</text>
+    
+    
+    <rect x="976" y="238" width="366" height="150" rx="20" fill="#111827" stroke="rgba(120,255,170,.14)" />
+    <text x="1000" y="272" fill="#8fdcff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="1000" dy="0">LEAD RECOMMENDATION</tspan>
+</text>
+    <text x="1000" y="324" fill="#37ff8b" font-size="34" font-weight="700" font-family="Segoe UI, Arial">
+<tspan x="1000" dy="0">Repair drift and close override packets</tspan>
+</text>
+    <text x="1000" y="362" fill="#b8c6db" font-size="15" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="1000" dy="0">Do not reopen autonomous</tspan>
+<tspan x="1000" dy="18">windows until localization</tspan>
+<tspan x="1000" dy="18">and signoff posture recover.</tspan>
+</text>
+    
+
+    
+    <rect x="58" y="420" width="614" height="356" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="84" y="454" fill="#19c7ff" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="84" dy="0">MISSION FAILURES</tspan>
+</text>
+    <text x="84" y="504" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="84" dy="0">The riskiest mission blockers</tspan>
+<tspan x="84" dy="35">stay visible first.</tspan>
+</text>
+    <text x="84" y="556" fill="#b8c6db" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="84" dy="0">Navigation drift, camera inference timeouts, and</tspan>
+<tspan x="84" dy="20">battery-sag failures stay tied to their owners so</tspan>
+<tspan x="84" dy="20">the fleet queue is readable before redeploy.</tspan>
+</text>
+    
+    <rect x="708" y="420" width="634" height="356" rx="22" fill="#0b1220" stroke="rgba(120,255,170,.18)" />
+    <text x="734" y="454" fill="#37ff8b" font-size="11" font-weight="700" font-family="Consolas, monospace">
+<tspan x="734" dy="0">OVERRIDE POSTURE</tspan>
+</text>
+    <text x="734" y="506" fill="#f5f7ff" font-size="28" font-weight="700" font-family="Georgia, serif">
+<tspan x="734" dy="0">What must close before</tspan>
+<tspan x="734" dy="35">the next mission wave</tspan>
+</text>
+    <circle cx="744" cy="574" r="5" fill="#37ff8b" />
+<text x="760" y="580" fill="#e9f3ff" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="760" dy="0">Warehouse AMR localization recalibration and safety reviewer signoff</tspan>
+<tspan x="760" dy="20">are both still missing.</tspan>
+</text>
+<circle cx="744" cy="628" r="5" fill="#37ff8b" />
+<text x="760" y="634" fill="#e9f3ff" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="760" dy="0">Fulfillment pick redeploy is blocked until the vision timeout note and</tspan>
+<tspan x="760" dy="20">human-stop summary land.</tspan>
+</text>
+<circle cx="744" cy="682" r="5" fill="#37ff8b" />
+<text x="760" y="688" fill="#e9f3ff" font-size="16" font-weight="400" font-family="Inter,Segoe UI,Arial">
+<tspan x="760" dy="0">Yard inspection replay evidence is incomplete, so the next dispatch is</tspan>
+<tspan x="760" dy="20">still review-bound.</tspan>
+</text>
+    
+    </svg>

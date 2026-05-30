@@ -1,0 +1,36 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{ABDECAEC-D30A-43C3-BC83-00F305FDE2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotFleetExceptionBoard.Api", "src\RobotFleetExceptionBoard.Api\RobotFleetExceptionBoard.Api.csproj", "{C2FC773F-5F81-494A-8952-3B163427ADF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{47A46A99-880D-4788-8EA8-17E169E756AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotFleetExceptionBoard.Tests", "tests\RobotFleetExceptionBoard.Tests\RobotFleetExceptionBoard.Tests.csproj", "{D76B6A8D-A6FE-45E2-BF53-9F38400BEB41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2FC773F-5F81-494A-8952-3B163427ADF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FC773F-5F81-494A-8952-3B163427ADF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FC773F-5F81-494A-8952-3B163427ADF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FC773F-5F81-494A-8952-3B163427ADF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76B6A8D-A6FE-45E2-BF53-9F38400BEB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76B6A8D-A6FE-45E2-BF53-9F38400BEB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76B6A8D-A6FE-45E2-BF53-9F38400BEB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76B6A8D-A6FE-45E2-BF53-9F38400BEB41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2FC773F-5F81-494A-8952-3B163427ADF5} = {ABDECAEC-D30A-43C3-BC83-00F305FDE2FC}
+		{D76B6A8D-A6FE-45E2-BF53-9F38400BEB41} = {47A46A99-880D-4788-8EA8-17E169E756AF}
+	EndGlobalSection
+EndGlobal
