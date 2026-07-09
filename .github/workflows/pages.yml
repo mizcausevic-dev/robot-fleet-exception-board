@@ -29,7 +29,7 @@ jobs:
       - name: Prerender
         run: dotnet run --project src/RobotFleetExceptionBoard.Api -- --prerender
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
